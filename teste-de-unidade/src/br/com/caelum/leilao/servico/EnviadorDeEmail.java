@@ -1,4 +1,4 @@
-package br.com.caelum.leilao.facade;
+package br.com.caelum.leilao.servico;
 
 import br.com.caelum.leilao.dominio.Leilao;
 

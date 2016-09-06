@@ -4,7 +4,6 @@ import java.util.Calendar;
 import java.util.List;
 
 import br.com.caelum.leilao.dominio.Leilao;
-import br.com.caelum.leilao.facade.EnviadorDeEmail;
 import br.com.caelum.leilao.facade.RepositorioDeLeiloes;
 
 public class EncerradorDeLeilao {

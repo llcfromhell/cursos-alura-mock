@@ -14,7 +14,6 @@ import org.mockito.InOrder;
 
 import br.com.caelum.leilao.builder.CriadorDeLeilao;
 import br.com.caelum.leilao.dominio.Leilao;
-import br.com.caelum.leilao.facade.EnviadorDeEmail;
 import br.com.caelum.leilao.infra.dao.LeilaoDao; 
 
 public class EncerradorDeLeilaoTest {
